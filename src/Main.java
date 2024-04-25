@@ -5,6 +5,5 @@ public class Main {
         Family.printFamily();
         Address.printAddress();
         Day.printDay();
-        System.out.println("That's it");
     }
 }
