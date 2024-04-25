@@ -4,6 +4,5 @@ public class Main {
         PrintName.print("Meera");
         Family.printFamily();
         Address.printAddress();
-        System.out.println("That's it");
     }
 }
